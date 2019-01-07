@@ -1,0 +1,19 @@
+body {
+    background-color: sandybrown;
+}
+
+h1 {
+    font-size: 35px;
+    color: red;
+}
+p {
+    font-size: 25px;
+}
+
+#p1 {
+    color: purple;
+}
+
+#p2 {
+    color: blue;
+}
